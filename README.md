@@ -4,5 +4,5 @@ Deploy no heroku com Swagger: https://rainbowsix-api.herokuapp.com/swagger-ui.ht
 
 
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/88911545/175468582-ea007b24-2d84-4f49-8571-da6a27a05386.jpeg"/>
+    <img heigth="200" width="100" src="https://user-images.githubusercontent.com/88911545/175468582-ea007b24-2d84-4f49-8571-da6a27a05386.jpeg"/>
 </div>
